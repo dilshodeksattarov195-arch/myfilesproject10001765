@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usereender",
+        "uuid": 5730955,
+        "checksum": "l8eld"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
